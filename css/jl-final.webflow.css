@@ -1841,7 +1841,19 @@ img {
   -webkit-column-count: 1;
   column-count: 1;
 }
-
+.headhero.first.support.jln {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0px auto 0px 0%;
+    padding-bottom: 0px;
+    background-color: transparent;
+    background-image: none;
+    color: #fff;
+    font-size: 38px;
+    text-align: center;
+}
 .headhero.first.support {
   position: relative;
   display: block;
@@ -3237,9 +3249,9 @@ html.w-mod-js *[data-ix="whenloaded"] {
   .headhero {
     display: block;
     width: 94%;
-    margin: 10px auto 23px -10px;
+    margin: 10px auto 23px 10px;
     padding-right: 0px;
-    padding-left: 36px;
+    padding-left: 1.3em;
     font-size: 3.3em;
     line-height: 40px;
     text-align: left;
@@ -3485,6 +3497,7 @@ html.w-mod-js *[data-ix="whenloaded"] {
   .container {
     margin-bottom: 0px;
     padding-bottom: 10px;
+    padding-top: 50px;
   }
   .container._3 {
     margin-top: 60px;
@@ -3502,6 +3515,7 @@ html.w-mod-js *[data-ix="whenloaded"] {
   }
   .column {
     padding-left: 0px;
+    margin-left: 3em;
   }
   .icon-2 {
     color: #30b985;
@@ -3675,7 +3689,7 @@ html.w-mod-js *[data-ix="whenloaded"] {
     padding-top: 41px;
   }
   .image-6 {
-    margin-left: 75px;
+    margin-left: 8.1em;
     padding-left: 0px;
     float: none;
     text-align: left;
