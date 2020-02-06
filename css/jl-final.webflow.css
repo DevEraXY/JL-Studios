@@ -3224,6 +3224,13 @@ html.w-mod-js *[data-ix="whenloaded"] {
     padding-bottom: 10px;
     background-color: #708238;
   }
+    .hero._3 {
+    display: block;
+    margin-top: 2em;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    background-color: #708238;
+  }
   .hero._3.presastuff {
     display: none;
   }
@@ -3429,11 +3436,11 @@ html.w-mod-js *[data-ix="whenloaded"] {
   }
   .linesocial {
     margin-right: 0px;
-    margin-left: 100px;
     padding-right: 0px;
     padding-left: 0px;
     float: left;
     clear: none;
+    margin-left: 8.2em;
   }
   .line {
     margin-left: 50px;
