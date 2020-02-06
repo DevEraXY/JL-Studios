@@ -3689,7 +3689,7 @@ html.w-mod-js *[data-ix="whenloaded"] {
     padding-top: 41px;
   }
   .image-6 {
-    margin-left: 8.1em;
+    margin-left: 7.5em;
     padding-left: 0px;
     float: none;
     text-align: left;
@@ -3722,6 +3722,7 @@ html.w-mod-js *[data-ix="whenloaded"] {
   }
   .html-embed-2 {
     width: 100%;
+    margin-top: 7em;
     margin-left: 35px;
     padding-right: 0px;
     float: none;
